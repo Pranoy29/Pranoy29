@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pranoy29
-- 👀 I’m interested in open source project on java.
+- 👋 Hi, I’m Pranoy Majumder
+- 👀 I’m interested in open source project on java
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with other developers
+- 📫 How to reach me - pranoymajumder29@gmail.com
 
 <!---
 Pranoy29/Pranoy29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
